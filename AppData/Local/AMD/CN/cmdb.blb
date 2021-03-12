@@ -1,0 +1,22 @@
+{
+    "games": [
+        {
+            "cpu_status": 0,
+            "gpu_status": 0,
+            "min_cpu": "",
+            "min_gpu": "",
+            "old_url": "",
+            "origin_id": -1,
+            "overall_status": 0,
+            "rec_checked": "TRUE",
+            "rec_cpu": "",
+            "rec_gpu": "",
+            "steam_id": 838380,
+            "sys_checked": "FALSE",
+            "sys_cpu": "",
+            "sys_gpu": "",
+            "title": "DEAD OR ALIVE 6",
+            "uplay_id": -1
+        }
+    ]
+}

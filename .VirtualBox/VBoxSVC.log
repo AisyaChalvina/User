@@ -1,0 +1,70 @@
+00:00:00.018606 main     VirtualBox COM Server 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.018614 main     Log opened 2020-12-03T10:42:02.673694000Z
+00:00:00.018615 main     Build Type: release
+00:00:00.019052 main     OS Product: Windows 10
+00:00:00.019057 main     OS Release: 10.0.19041
+00:00:00.019059 main     OS Service Pack: 
+00:00:00.227649 main     DMI Product Name: TUF Gaming FX505DD_FX505DD
+00:00:00.333939 main     DMI Product Version: 1.0
+00:00:00.333973 main     Firmware type: UEFI
+00:00:00.335365 main     Secure Boot: Enabled
+00:00:00.335387 main     Host RAM: 7617MB (7.4GB) total, 893MB available
+00:00:00.335413 main     Executable: D:\virtualbox\VBoxSVC.exe
+00:00:00.335414 main     Process ID: 16220
+00:00:00.335415 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.741434          VirtualBox: object creation starts
+00:00:00.745704          Home directory: 'C:\Users\User\.VirtualBox'
+00:00:00.746342          Installed Drivers:
+00:00:00.754294            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.14.40239)
+00:00:00.757920            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.14.40239)
+00:00:00.760255            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.14.40239)
+00:00:00.763682            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.14.40239)
+00:00:00.807750          Loading settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.833646          usbLibGetDevices: Starting USB device enumeration
+00:00:00.834031          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&8beff0b&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:00.847194          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.852295          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x3537)
+00:00:00.856827          USB: Unknown USB device detected (idVendor: 0x1ea7, idProduct: 0x0064)
+00:00:01.180511          netIfIsWireless: CreateFile on '\\.\{65878EA3-1B45-4A97-A584-8987E75A3723}' failed with rcWin=2 (0x2) - ignoring
+00:00:01.252861          HostDnsMonitor: initializing
+00:00:01.369189          HostDnsMonitor: updating information
+00:00:01.370493          HostDnsMonitor: old information
+00:00:01.370498            no server entries
+00:00:01.370500            no domain set
+00:00:01.370501            no search string entries
+00:00:01.370503          HostDnsMonitor: new information
+00:00:01.370504            server 1: 192.168.100.1
+00:00:01.370506            no domain set
+00:00:01.370507            no search string entries
+00:00:01.523642          VD: VDInit finished with VINF_SUCCESS
+00:00:01.560978          Loading settings file "D:\LinuxJarkom\JarKom\JarKom\JarKom.vbox" with version "1.16-windows"
+00:00:01.602334          Loading settings file "D:\WindowsJarkom\Aisya\Aisya.vbox" with version "1.15-windows"
+00:00:01.636410          Loading settings file "D:\LinuxJarkom\DebianAisya\DebianAisya.vbox" with version "1.16-windows"
+00:00:01.647366          VirtualBox: object created
+00:00:09.204211          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:09.285110          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:19.832467          Launched VM: 75696992 pid: 20400 (0x4fb0) frontend: GUI/Qt name: DebianAisya
+00:01:31.291159          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:01:31.888979          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:32.446816          netIfIsWireless: CreateFile on '\\.\{65878EA3-1B45-4A97-A584-8987E75A3723}' failed with rcWin=2 (0x2) - ignoring
+00:01:33.426243          netIfIsWireless: CreateFile on '\\.\{65878EA3-1B45-4A97-A584-8987E75A3723}' failed with rcWin=2 (0x2) - ignoring
+00:53:40.112022          Saving settings file "D:\LinuxJarkom\DebianAisya\DebianAisya.vbox" with version "1.16-windows"
+00:53:41.115856          Saving settings file "D:\LinuxJarkom\DebianAisya\DebianAisya.vbox" with version "1.16-windows"
+00:55:10.965216          Launched VM: 75696800 pid: 17176 (0x4318) frontend: GUI/Qt name: Aisya
+00:55:19.690079          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:55:20.289066          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:55:20.937311          netIfIsWireless: CreateFile on '\\.\{65878EA3-1B45-4A97-A584-8987E75A3723}' failed with rcWin=2 (0x2) - ignoring
+01:20:00.001302          Saving settings file "D:\WindowsJarkom\Aisya\Aisya.vbox" with version "1.15-windows"
+01:20:01.038689          Saving settings file "D:\WindowsJarkom\Aisya\Aisya.vbox" with version "1.15-windows"
+01:20:02.207809          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:20:02.375483          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:20:02.423686          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:20:02.456376          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:20:08.520617 main     VirtualBox: object deletion starts
+01:20:08.522736 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'D:\LinuxJarkom\JarKom\JarKom\JarKom.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:20:08.524331 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'D:\WindowsJarkom\Aisya\Aisya.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:20:08.524904 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'D:\LinuxJarkom\DebianAisya\DebianAisya.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:20:08.529451 main     HostDnsMonitor: shutting down ...
+01:20:08.529722 main     HostDnsMonitor: shut down
+01:20:08.538126 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+01:20:08.539538 main     VirtualBox: object deleted

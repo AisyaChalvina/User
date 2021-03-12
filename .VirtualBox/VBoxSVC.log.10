@@ -1,0 +1,90 @@
+00:00:00.000865 main     VirtualBox COM Server 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.000867 main     Log opened 2020-09-25T05:52:01.456169400Z
+00:00:00.000868 main     Build Type: release
+00:00:00.000874 main     OS Product: Windows 10
+00:00:00.000875 main     OS Release: 10.0.18363
+00:00:00.000876 main     OS Service Pack: 
+00:00:00.023594 main     DMI Product Name: TUF Gaming FX505DD_FX505DD
+00:00:00.034204 main     DMI Product Version: 1.0
+00:00:00.034218 main     Firmware type: UEFI
+00:00:00.034720 main     Secure Boot: Enabled
+00:00:00.034728 main     Host RAM: 7617MB (7.4GB) total, 2950MB (2.8GB) available
+00:00:00.034733 main     Executable: D:\virtualbox\VBoxSVC.exe
+00:00:00.034734 main     Process ID: 13852
+00:00:00.034734 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.121703          VirtualBox: object creation starts
+00:00:00.121987          Home directory: 'C:\Users\User\.VirtualBox'
+00:00:00.122091          Installed Drivers:
+00:00:00.126717            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.14.40239)
+00:00:00.127358            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.14.40239)
+00:00:00.127894            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.14.40239)
+00:00:00.128625            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.14.40239)
+00:00:00.141554          Loading settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.146367          usbLibGetDevices: Starting USB device enumeration
+00:00:00.161908          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&8beff0b&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:00.166005          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.166057          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x3537)
+00:00:00.202022          HostDnsMonitor: initializing
+00:00:00.211233          HostDnsMonitor: updating information
+00:00:00.211264          HostDnsMonitor: old information
+00:00:00.211264            no server entries
+00:00:00.211265            no domain set
+00:00:00.211266            no search string entries
+00:00:00.211266          HostDnsMonitor: new information
+00:00:00.211267            server 1: 118.98.44.100
+00:00:00.211268            server 2: 118.98.44.10
+00:00:00.211268            no domain set
+00:00:00.211269            no search string entries
+00:00:00.259762          VD: VDInit finished with VINF_SUCCESS
+00:00:00.261195          VirtualBox: object created
+00:00:02.797892          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.810263          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:08:08.645684 createBase Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:08:09.180145          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.16-windows"
+00:08:09.191269          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.16-windows"
+00:08:09.199871          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:08:09.219697          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:08:09.230011          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.16-windows"
+00:09:47.614687          Launched VM: 70467376 pid: 19536 (0x4c50) frontend: GUI/Qt name: Praktikum Jarkom
+00:09:52.249500          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:09:52.509148          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:11:07.390062          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:11:07.396022          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.16-windows"
+00:19:56.817993          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.16-windows"
+00:19:56.860781          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.16-windows"
+00:19:57.395240          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.16-windows"
+00:19:57.427190          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.16-windows"
+02:10:13.799447 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:10:13.820812 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&8beff0b&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+02:10:13.824844 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+02:10:14.543821 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:10:14.561948 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&8beff0b&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+02:10:14.565867 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+02:10:35.719987 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:10:35.740114 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&8beff0b&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+02:10:35.743478 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+02:56:07.128202          Launched VM: 70445184 pid: 12272 (0x2ff0) frontend: GUI/Qt name: Praktikum Jarkom
+02:56:17.921567          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+02:56:18.549558          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+03:00:55.279392          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+03:00:55.321696          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+03:00:55.362932          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+03:00:58.401472          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+03:33:28.957254          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.16-windows"
+03:33:35.197658          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.16-windows"
+03:33:35.772669          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.16-windows"
+03:46:45.653678          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.17-windows"
+03:46:50.534283          Launched VM: 70519952 pid: 13496 (0x34b8) frontend: GUI/Qt name: Praktikum Jarkom
+03:46:58.256485          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+03:46:58.936566          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+04:17:59.454784          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+04:17:59.491401          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+04:17:59.525840          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+04:18:04.623208          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.17-windows"
+04:18:05.292210          Saving settings file "D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vbox" with version "1.17-windows"
+04:18:11.445904 main     VirtualBox: object deletion starts
+04:18:11.446651 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'D:\LinuxJarkom\Praktikum Jarkom\Praktikum Jarkom.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+04:18:11.451460 main     HostDnsMonitor: shutting down ...
+04:18:11.451712 main     HostDnsMonitor: shut down
+04:18:11.458566 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+04:18:11.459192 main     VirtualBox: object deleted

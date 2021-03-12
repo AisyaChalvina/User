@@ -1,0 +1,51 @@
+{
+    "engines": [
+        {
+            "engine_type": 0,
+            "games_repository": "C:\\Program Files (x86)\\Steam\\steamapps\\common",
+            "install_location": "C:\\Program Files (x86)\\Steam",
+            "uninstall_location": 1
+        }
+    ],
+    "games": [
+        {
+            "amdId": -1,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "color_enabled": "FALSE",
+            "colors": [
+            ],
+            "exe_path": "",
+            "eyefinity_enabled": "FALSE",
+            "framerate": [
+            ],
+            "framerate_enabled": "FALSE",
+            "freeSyncForceSet": "FALSE",
+            "hidden": "FALSE",
+            "image_info": "C:\\Program Files (x86)\\Steam\\steam\\games\\664bad4a8ef14588f2eaa381c30fd300aa8dc4c7.ico",
+            "install_location": "",
+            "installer_id": "Steam App 838380",
+            "lastlaunchtime": "",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "profileCustomized": "FALSE",
+            "profileEnabled": "TRUE",
+            "rendering_process": "",
+            "steam_id": 838380,
+            "title": "DEAD OR ALIVE 6",
+            "uninstall_location": 0,
+            "uninstalled": "TRUE",
+            "uplay_id": -1,
+            "useEyefinity": "FALSE"
+        }
+    ],
+    "lst_dtc_tsmp_high": 30830671,
+    "lst_dtc_tsmp_low": -114872912,
+    "lst_rsch_data_release": 1
+}
